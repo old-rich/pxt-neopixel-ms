@@ -22,7 +22,7 @@
   "neopixel.Strip.setMatrixColor|block": "%strip|nastav matici barev x %x|y %y|na %rgb=neopixel_colors",
   "neopixel.Strip.setMatrixWidth|block": "%strip|nastav šířku matice %width",
   "neopixel.Strip.setPixelColor|block": "%strip|nastav barvu LED na pozici %pixeloffset|na %rgb=neopixel_colors",
-  "neopixel.Strip.setPixelWhiteLED|block": "%strip|nastav jas bílého LED pixelu na pozice %pixeloffset|na %white",
+  "neopixel.Strip.setPixelWhiteLED|block": "%strip|nastav jas bílého LED pixelu na pozici %pixeloffset|na %white",
   "neopixel.Strip.shift|block": "%strip|posuň LED pixely o %offset",
   "neopixel.Strip.showBarGraph|block": "%strip|zobraz čárový graf pro %value|až do %high",
   "neopixel.Strip.showColor|block": "%strip|zobraz barvu %rgb=neopixel_colors",
