@@ -32,6 +32,6 @@
   "neopixel.create|block": "NeoPixel na pinu %pin|s %numleds|LED ve formátu %mode",
   "neopixel.hsl|block": "odstín %h|saturace %s|jas %l",
   "neopixel.rgb|block": "červená %red|zelená %green|modrá %blue",
-  "neopixel|block": "neopixel",
+  "neopixel|block": "Neopixel",
   "{id:category}Neopixel": "Neopixel"
 }
